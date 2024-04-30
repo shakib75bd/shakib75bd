@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shakib75bd](https://github.com/shakib75bd)
 
-- 💬 Ask me about **Anything relatable? Maybe **
+- 💬 Ask me about **Anything relatable? Maybe**
 
 - 📫 How to reach me? **Contact via: shakib.csebrur@gmail.com**
 

@@ -81,8 +81,6 @@
     <td align="center"><img src="https://img.icons8.com/color/48/firebase.png" /><br />Firebase</td>
     <td align="center"><img src="https://img.icons8.com/color/48/mongodb.png" /><br />MongoDB</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" /><br />MySQL</td>
-    <td align="center"><img src="https://img.icons8.com/ios-filled/50/bash.png" /><br />Bash</td>
-    <td align="center"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-regex-is-a-sequence-of-characters-that-define-a-search-pattern-logo-shadow-tal-revivo.png" /><br />RegEx</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/arduino.png" /><br />Arduino</td>
   </tr>
 </table>

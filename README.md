@@ -39,10 +39,25 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=shakib75bd&theme=radical" alt="shakib75bd streak" />
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ShakibHShanto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/shakibhossen.shanto112/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://t.me/shakib_h_shanto" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.flickr.com/photos/shanto_s_viewpoint/" target="_blank">
+    <img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white" alt="Flickr" />
+  </a>
 </p>
+
+---
 
 ---
 

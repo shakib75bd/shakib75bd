@@ -1,7 +1,6 @@
-<div align="center" style="background: linear-gradient(to right, #74ebd5, #ACB6E5); padding: 40px 20px; border-radius: 10px; color: white; font-family: Arial, sans-serif;">
-  <h1>👋 Hello there! I'm <strong>Md Shakib Hossen</strong></h1>
-  <h3>A passionate programmer, developer, and photographer</h3>
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:087EE1,100:05E8BA&text=👋%20Hello%20there!%20I'm%20Shakib%20Hossen%20Shanto&textBg=false&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=A%20passionate%20programmer%20, developer%20and%20photographer%20from%20Bangladesh&section=header&animation=fadeIn&descAlignY=50" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakib75bd&label=Profile%20views&color=0e75b6&style=flat" alt="shakib75bd" />

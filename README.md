@@ -14,7 +14,7 @@
 
 - 📫 Reach me at: **shakib.csebrur@gmail.com**
 
-- 📷 Fun fact: I'm also a **Photographer** and  **Naturist** 🎥
+- 📷 Fun fact: I'm also a **Photographer** and  **Naturalist** 🎥
 
 ---
 

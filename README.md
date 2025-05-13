@@ -41,13 +41,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib75bd&show_icons=true&theme=radical" alt="shakib75bd stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib75bd&theme=radical" alt="shakib75bd streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib75bd&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=shakib75bd&theme=radical" alt="shakib75bd streak" />
 </p>
 
 ---

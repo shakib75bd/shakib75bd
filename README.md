@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md Shakib Hossen</h1>
-<h3 align="center">A passionate programmer, developer, and photographer</h3>
+<div align="center" style="background: linear-gradient(to right, #74ebd5, #ACB6E5); padding: 40px 20px; border-radius: 10px; color: white; font-family: Arial, sans-serif;">
+  <h1>👋 Hello there! I'm <strong>Md Shakib Hossen</strong></h1>
+  <h3>A passionate programmer, developer, and photographer</h3>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakib75bd&label=Profile%20views&color=0e75b6&style=flat" alt="shakib75bd" />

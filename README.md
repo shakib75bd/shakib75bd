@@ -85,7 +85,7 @@
     <td align="center"><img src="https://img.icons8.com/color/48/adobe-lightroom.png"/><br/>Lightroom</td>
     <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/><br/>Stable Diffusion</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48"/><br/>ChatGPT</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Homebrew/legacy-homebrew/master/share/doc/homebrew/logo.png" width="48"/><br/>Homebrew</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/homebrew/FBB040" width="48" height="48"/><br/>Homebrew</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48"/><br/>Anaconda</td>
   </tr>
 </table>

@@ -39,6 +39,55 @@
 
 ---
 
+## 🚀 Favorite Tech
+
+> Tools, languages and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/git.png" /><br />Git</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" /><br />Java</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/python--v1.png" /><br />Python</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/c-programming.png" /><br />C</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" /><br />C++</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/dart.png" /><br />Dart</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/nodejs.png" /><br />Node.js</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/react-native.png" /><br />React</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/nextjs.png" /><br />Next.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/jetpack-compose.png" /><br />Jetpack Compose</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/spring-logo.png" /><br />Spring Boot</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/flutter.png" /><br />Flutter</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/react-native.png" /><br />React Native</td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/expo.png" /><br />Expo</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/javascript--v1.png" /><br />JavaScript</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/typescript.png" /><br />TypeScript</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/tailwind_css.png" /><br />Tailwind CSS</td>
+    <td align="center"><img src="https://img.icons8.com/officel/48/php-logo.png" /><br />PHP</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/html-5--v1.png" /><br />HTML5</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/css3.png" /><br />CSS3</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/android-studio--v3.png" /><br />Android Studio</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" /><br />VS Code</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/pycharm.png" /><br />PyCharm</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" /><br />Photoshop</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/adobe-illustrator.png" /><br />Illustrator</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/adobe-xd.png" /><br />Adobe XD</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/figma--v1.png" /><br />Figma</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/firebase.png" /><br />Firebase</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/mongodb.png" /><br />MongoDB</td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" /><br />MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/bash.png" /><br />Bash</td>
+    <td align="center"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-regex-is-a-sequence-of-characters-that-define-a-search-pattern-logo-shadow-tal-revivo.png" /><br />RegEx</td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/arduino.png" /><br />Arduino</td>
+  </tr>
+</table>
+
+
 ---
 
 <h3 align="center">🌐 Connect with me</h3>

@@ -56,7 +56,7 @@
     <td align="center"><img src="https://img.icons8.com/color/48/nextjs.png" /><br />Next.js</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://developer.android.com/images/jetpack/compose-graphic.png" width="48" height="48"/><br />Jetpack Compose</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48"/><br />Bash</td>
     <td align="center"><img src="https://img.icons8.com/color/48/spring-logo.png" /><br />Spring Boot</td>
     <td align="center"><img src="https://img.icons8.com/color/48/flutter.png" /><br />Flutter</td>
     <td align="center"><img src="https://img.icons8.com/color/48/react-native.png" /><br />React Native</td>
@@ -79,7 +79,6 @@
   </tr>
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/firebase.png" /><br />Firebase</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48"/><br />Bash</td>
     <td align="center"><img src="https://img.icons8.com/color/48/mongodb.png" /><br />MongoDB</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" /><br />MySQL</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/arduino.png" /><br />Arduino</td>

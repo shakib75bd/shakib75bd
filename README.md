@@ -82,6 +82,11 @@
     <td align="center"><img src="https://img.icons8.com/color/48/mongodb.png" /><br />MongoDB</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" /><br />MySQL</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/arduino.png" /><br />Arduino</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/adobe-lightroom.png"/><br/>Lightroom</td>
+    <td align="center"><img src="https://play-lh.googleusercontent.com/zqzHD7iKHTHd_nOiYRtSl3FFHTdtgyahXeZjE4cPZCAYeCRGh96vbi46pvM8dA5qsA=w240-h480-rw" width="48" height="48"/><br/>CapCut</td>
+    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/><br/>Stable Diffusion</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48"/><br/>ChatGPT</td>
+    <td align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Copilot.png" width="48"/><br/>Copilot</td>
   </tr>
 </table>
 

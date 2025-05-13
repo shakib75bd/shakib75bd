@@ -14,7 +14,7 @@
 
 - 📫 Reach me at: **shakib.csebrur@gmail.com**
 
-- 📷 Fun fact: I'm also a **DSLR photographer** and live streaming enthusiast 🎥
+- 📷 Fun fact: I'm also a **Photographer** and  **Naturist** 🎥
 
 ---
 

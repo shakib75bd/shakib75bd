@@ -113,6 +113,8 @@
 </p>
 
 ---
+📈 my github stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shakib75bd&show_icons=true&theme=gotham" alt="shakib75bd" />
 ---
 

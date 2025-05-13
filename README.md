@@ -93,6 +93,18 @@
   </tr>
 </table>
 
+---
+
+#### Top Repositories
+
+<a href="https://github.com/shakib75bd/TDashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shakib75bd&repo=TDashboard&theme=buefy" />
+</a>
+<a href="https://github.com/shakib75bd/notes-pwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shakib75bd&repo=notes-pwa&theme=buefy" />
+</a>
+
+<br />
 
 ---
 ## 🚀 My Github Stats
@@ -118,6 +130,7 @@
     <img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white" alt="Flickr" />
   </a>
 </p>
+
 ---
 
 <p align="center">
